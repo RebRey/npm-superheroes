@@ -1,6 +1,6 @@
 // see https://www.npmjs.com/package/superheroes documentation
 
-// STEP 1: incorporate module into the current project
+// STEP 1: incorporate module into the current project by requiring it.
 const superheroes = require("superheroes");
  
 // STEP 2: use the random method to generate random super hero names and store the output (random super hero name) into a variable called mySuperHeroName
